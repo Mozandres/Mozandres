@@ -3,7 +3,7 @@
 **Estudiante de Ingeniería de Sistemas · Desarrollador de videojuegos (Unity / C#)**
 Santa Cruz, Bolivia
 
-[LinkedIn](TU-URL-DE-LINKEDIN) · [Email](mailto:florespazjesus@gmail.com) · [GitHub](https://github.com/Mozandres)
+[LinkedIn](https://www.linkedin.com/in/andres-flores-paz-463a40440/?isSelfProfile=true) · [Email](mailto:florespazjesus@gmail.com) · [GitHub](https://github.com/Mozandres)
 
 ---
 
