@@ -9,7 +9,7 @@ Santa Cruz, Bolivia
 
 ## Perfil
 
-Estudiante de quinto semestre de Ingeniería de Sistemas con experiencia práctica programando en Unity y C#. Me enfoco en la programación de gameplay: sistemas de misiones y diálogo, lógica de interacción y depuración de bugs en proyectos para PC. También me defiendo en bases de datos y backend, y tengo conocimientos básicos de diseño web.
+Estudiante de quinto semestre de Ingeniería de Sistemas con experiencia práctica programando en Unity y C#. Me enfoco en la programación de gameplay: sistemas de misiones y diálogo, lógica de interacción y depuración de bugs en proyectos para PC. Además trabajo con bases de datos en SQL Server, análisis de datos con Power BI y aplicaciones web con ASP.NET, y tengo nociones básicas de Blender. Aplico Scrum en proyectos de equipo.
 
 ## Formación académica
 
@@ -37,9 +37,10 @@ Universidad Privada Domingo Savio · Feria del libro de Montero
 | Área | Tecnologías |
 |---|---|
 | Videojuegos | Unity, C#, Unity Timeline, Cinemachine |
-| Backend y datos | Bases de datos, lógica de negocio |
-| Web | HTML, CSS (nivel básico) |
-| Depuración | Lógica de juego, física y colisiones |
+| Backend y web | ASP.NET, HTML, CSS |
+| Bases de datos y análisis | SQL Server, Power BI |
+| Diseño 3D | Blender (nivel básico) |
+| Metodologías | Scrum |
 | Plataforma | Desarrollo para PC |
 
 ## Idiomas
